@@ -10,4 +10,6 @@ elif operation == "-":
 elif operation == "*":
     print("Multiplication : ", num1 * num2)
 elif operation == "/":
-    print("Division : ", num1 / num2)            
+    print("Division : ", num1 / num2) 
+else:
+    print("Enter valid operator!")     
